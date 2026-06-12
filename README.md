@@ -1,1 +1,1 @@
-# Computaci-n-en-GPU-OpenCL-
+# CGPU-OpenCL
